@@ -1,0 +1,172 @@
+{
+  "winner": "fixed-1000",
+  "retriever": "bm25",
+  "bm25": {
+    "k1": 1.2,
+    "b": 0.75
+  },
+  "article_count": 40,
+  "question_count": 800,
+  "seed": 20260729,
+  "summary": {
+    "best_recall_at_10_strategy": "fixed-1000",
+    "best_recall_at_10": 0.93125,
+    "worst_recall_at_10_strategy": "semantic",
+    "worst_recall_at_10": 0.8725,
+    "recall_at_10_spread_percentage_points": 5.875
+  },
+  "strategies": [
+    {
+      "id": "fixed-500",
+      "name": "Fixed 500",
+      "description": "500 characters, no overlap",
+      "metrics": {
+        "recall_at_1": 0.64875,
+        "recall_at_3": 0.79875,
+        "recall_at_5": 0.83625,
+        "recall_at_10": 0.885,
+        "mrr_at_10": 0.7325897817460317,
+        "ndcg_at_10": 0.5493573843047335,
+        "context_k_to_90": null,
+        "context_tokens_to_90": null,
+        "chunks_per_document": 64.225,
+        "mean_chunk_tokens": 124.21954067730634,
+        "median_chunk_tokens": 125,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "fixed-10",
+      "name": "Fixed 500 + 10%",
+      "description": "500 characters, 50-character overlap",
+      "metrics": {
+        "recall_at_1": 0.6625,
+        "recall_at_3": 0.8125,
+        "recall_at_5": 0.8675,
+        "recall_at_10": 0.90625,
+        "mrr_at_10": 0.7471731150793651,
+        "ndcg_at_10": 0.5519227706098686,
+        "context_k_to_90": 10,
+        "context_tokens_to_90": 1250.3125,
+        "chunks_per_document": 71.225,
+        "mean_chunk_tokens": 124.36328536328536,
+        "median_chunk_tokens": 125,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "fixed-25",
+      "name": "Fixed 500 + 25%",
+      "description": "500 characters, 125-character overlap",
+      "metrics": {
+        "recall_at_1": 0.695,
+        "recall_at_3": 0.83,
+        "recall_at_5": 0.8675,
+        "recall_at_10": 0.9175,
+        "mrr_at_10": 0.7722480158730158,
+        "ndcg_at_10": 0.566983037019141,
+        "context_k_to_90": 10,
+        "context_tokens_to_90": 1249.8325,
+        "chunks_per_document": 85.275,
+        "mean_chunk_tokens": 124.49047200234536,
+        "median_chunk_tokens": 125,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "recursive",
+      "name": "Recursive",
+      "description": "Paragraph, sentence, whitespace, then hard cut",
+      "metrics": {
+        "recall_at_1": 0.65,
+        "recall_at_3": 0.7925,
+        "recall_at_5": 0.84625,
+        "recall_at_10": 0.89375,
+        "mrr_at_10": 0.734109126984127,
+        "ndcg_at_10": 0.5494843416484678,
+        "context_k_to_90": null,
+        "context_tokens_to_90": null,
+        "chunks_per_document": 64.525,
+        "mean_chunk_tokens": 123.86826811313445,
+        "median_chunk_tokens": 125,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "sentence-window",
+      "name": "Sentence window",
+      "description": "Index one sentence, return it with two neighbors",
+      "metrics": {
+        "recall_at_1": 0.6875,
+        "recall_at_3": 0.8125,
+        "recall_at_5": 0.8575,
+        "recall_at_10": 0.8925,
+        "mrr_at_10": 0.7593993055555555,
+        "ndcg_at_10": 0.32271907302533165,
+        "context_k_to_90": null,
+        "context_tokens_to_90": null,
+        "chunks_per_document": 211.425,
+        "mean_chunk_tokens": 185.14106657207049,
+        "median_chunk_tokens": 179,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "parent-document",
+      "name": "Parent document",
+      "description": "Index 250-character children, return 1,000-character parents",
+      "metrics": {
+        "recall_at_1": 0.665,
+        "recall_at_3": 0.82,
+        "recall_at_5": 0.865,
+        "recall_at_10": 0.91125,
+        "mrr_at_10": 0.7493234126984127,
+        "ndcg_at_10": 0.5799763650526358,
+        "context_k_to_90": 10,
+        "context_tokens_to_90": 2496.41625,
+        "chunks_per_document": 127.875,
+        "mean_chunk_tokens": 248.73724340175954,
+        "median_chunk_tokens": 250,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "semantic",
+      "name": "Semantic (TF-IDF proxy)",
+      "description": "Split at the 80th percentile of adjacent-sentence TF-IDF cosine distance",
+      "metrics": {
+        "recall_at_1": 0.645,
+        "recall_at_3": 0.78125,
+        "recall_at_5": 0.83,
+        "recall_at_10": 0.8725,
+        "mrr_at_10": 0.7216671626984127,
+        "ndcg_at_10": 0.5332221405513783,
+        "context_k_to_90": null,
+        "context_tokens_to_90": null,
+        "chunks_per_document": 119.175,
+        "mean_chunk_tokens": 67.130480385987,
+        "median_chunk_tokens": 53,
+        "token_counts_estimated": true
+      }
+    },
+    {
+      "id": "fixed-1000",
+      "name": "Fixed 1000",
+      "description": "1,000 characters, no overlap",
+      "metrics": {
+        "recall_at_1": 0.715,
+        "recall_at_3": 0.85125,
+        "recall_at_5": 0.8925,
+        "recall_at_10": 0.93125,
+        "mrr_at_10": 0.7921309523809523,
+        "ndcg_at_10": 0.6154857868407483,
+        "context_k_to_90": 10,
+        "context_tokens_to_90": 2495.0825,
+        "chunks_per_document": 32.35,
+        "mean_chunk_tokens": 246.55564142194746,
+        "median_chunk_tokens": 250.0,
+        "token_counts_estimated": true
+      }
+    }
+  ]
+}

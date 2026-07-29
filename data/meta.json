@@ -1,0 +1,27 @@
+{
+  "source": "SQuAD v1.1 dev",
+  "source_url": "https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v1.1.json",
+  "license": "CC BY-SA 4.0",
+  "article_count": 40,
+  "question_count": 800,
+  "retriever": "bm25",
+  "date": "2026-07-30",
+  "seed": 20260729,
+  "token_counting": {
+    "method": "estimated UTF-8 bytes / 4",
+    "estimated": true
+  },
+  "hit_criterion": "case-insensitive normalized gold-answer string containment",
+  "parameters": {
+    "bm25_k1": 1.2,
+    "bm25_b": 0.75,
+    "fixed_size_chars": 500,
+    "overlap_10_chars": 50,
+    "overlap_25_chars": 125,
+    "sentence_window_neighbors": 2,
+    "parent_chars": 1000,
+    "child_chars": 250,
+    "semantic_breakpoint_percentile": 80,
+    "large_fixed_size_chars": 1000
+  }
+}

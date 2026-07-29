@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.vercel
+data/squad-dev-v1.1.json
+data/embeddings-cache.json

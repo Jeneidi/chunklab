@@ -1,0 +1,2084 @@
+{
+  "failures": {
+    "fixed-500": [
+      {
+        "question": "The theatre collection starts from the time of which famous Elizabethan playwright?",
+        "gold_answer": "Shakespeare",
+        "gold_document": "Victoria_and_Albert_Museum",
+        "retrieved_document": "Newcastle_upon_Tyne",
+        "retrieved_chunk": ".\n\nThe city has a proud history of theatre. Stephen Kemble of the famous Kemble family successfully managed the original Theatre Royal, Newcastle for fifteen years (1791\u20131806). He brought members of his famous acting family such as Sarah Siddons and John Kemble out of London to Newcastle. Stephen Kemble guided the theatre through many celebrated seasons. The original Theatre Royal in Newcastle was opened on 21 January 1788 and was located on Mosley Street. It was demolished to make way for Grey "
+      },
+      {
+        "question": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+        "gold_answer": "exponential-time algorithms",
+        "gold_document": "Computational_complexity_theory",
+        "retrieved_document": "Computational_complexity_theory",
+        "retrieved_chunk": "heir solutions to be useful, are known as intractable problems. In complexity theory, problems that lack polynomial-time solutions are considered to be intractable for more than the smallest inputs. In fact, the Cobham\u2013Edmonds thesis states that only those problems that can be solved in polynomial time can be feasibly computed on some computational device. Problems that are known to be intractable in this sense include those that are EXPTIME-hard. If NP is not the same as P, then the NP-complete"
+      },
+      {
+        "question": "what did tesla attribute skin damage to?",
+        "gold_answer": "damage to the skin was not caused by the Roentgen rays, but by the ozone generated in contact with the skin",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": " setups to produce X-rays. Tesla held that, with his circuits, the \"instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus.\"\n\nTesla noted the hazards of working with his circuit and single-node X-ray-producing devices. In his many notes on the early investigation of this phenomenon, he attributed the skin damage to various causes. He believed early on that damage to the skin was not caused by the Roentgen rays, but by the ozone gene"
+      },
+      {
+        "question": "What type of city has Warsaw been for as long as it's been a city?",
+        "gold_answer": "multi-cultural",
+        "gold_document": "Warsaw",
+        "retrieved_document": "Warsaw",
+        "retrieved_chunk": "concentration camps led to the uprising in the Warsaw ghetto in 1943 and to the major and devastating Warsaw Uprising between August and October 1944. Warsaw gained the title of the \"Phoenix City\" because it has survived many wars, conflicts and invasions throughout its long history. Most notably, the city required painstaking rebuilding after the extensive damage it suffered in World War II, which destroyed 85% of its buildings. On 9 November 1940, the city was awarded Poland's highest military"
+      }
+    ],
+    "fixed-10": [
+      {
+        "question": "What was produced at tesla's company? ",
+        "gold_answer": "dynamo electric machine commutators",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "est known design for what became the tiltrotor/tilt-wing concept as well as the earliest proposal for the use of turbine engines in rotor aircraft.[improper synthesis?]\n\nStarting in 1934, the Westinghouse Electric & Manufacturing Company began paying Tesla $125 per month as well as paying his rent at the Hotel New Yorker, expenses the Company would pay for the rest of Tesla's life. Accounts on how this came about vary. Several sources say Westinghouse was worried about potential bad publicity su"
+      },
+      {
+        "question": "The theatre collection starts from the time of which famous Elizabethan playwright?",
+        "gold_answer": "Shakespeare",
+        "gold_document": "Victoria_and_Albert_Museum",
+        "retrieved_document": "Newcastle_upon_Tyne",
+        "retrieved_chunk": "a. Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, caf\u00e9s and clubs.\n\nThe city has a proud history of theatre. Stephen Kemble of the famous Kemble family successfully managed the original Theatre Royal, Newcastle for fifteen years (1791\u20131806). He brought members of his famous acting family such as Sarah Siddons and John Kemble out of London to Newcastle. Stephen Kemble guided the theatre through many celebrated se"
+      },
+      {
+        "question": "When did Tesla move to New York City?",
+        "gold_answer": "1884",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "tate funeral for Tesla at the Cathedral of Saint John the Divine. After the funeral, Tesla's body was taken to the Ferncliff Cemetery in Ardsley, New York, where it was later cremated. The following day, a second service was conducted by prominent priests in the Trinity Chapel (today's Serbian Orthodox Cathedral of Saint Sava) in New York City.\n\nIn 1952, following pressure from Tesla's nephew, Sava Kosanovi\u0107, Tesla's entire estate was shipped to Belgrade in 80 trunks marked N.T. In 1957, Kosanov"
+      },
+      {
+        "question": "What did mlolongo system lead to?",
+        "gold_answer": "agitation for constitutional reform",
+        "gold_document": "Kenya",
+        "retrieved_document": "Kenya",
+        "retrieved_chunk": " In this way, Kenya became an independent country under the Kenya Independence Act 1963 of the United Kingdom. Exactly 12 months later on 12 December 1964, Kenya became a republic under the name \"Republic of Kenya\".\n\nThe election held in 1988 saw the advent of the mlolongo (queuing) system, where voters were supposed to line up behind their favoured candidates instead of a secret ballot. This was seen as the climax of a very undemocratic regime and it led to widespread agitation for constitution"
+      }
+    ],
+    "fixed-25": [
+      {
+        "question": "What did mlolongo system lead to?",
+        "gold_answer": "agitation for constitutional reform",
+        "gold_document": "Kenya",
+        "retrieved_document": "Kenya",
+        "retrieved_chunk": "te of Kenya so that all of Kenya would be one sovereign, independent state. In this way, Kenya became an independent country under the Kenya Independence Act 1963 of the United Kingdom. Exactly 12 months later on 12 December 1964, Kenya became a republic under the name \"Republic of Kenya\".\n\nThe election held in 1988 saw the advent of the mlolongo (queuing) system, where voters were supposed to line up behind their favoured candidates instead of a secret ballot. This was seen as the climax of a v"
+      },
+      {
+        "question": "Why does Doctor Who's TARDIS always look the same?",
+        "gold_answer": "due to a malfunction in the chameleon circuit",
+        "gold_document": "Doctor_Who",
+        "retrieved_document": "Doctor_Who",
+        "retrieved_chunk": "n, different Doctors have met each other. Peter Capaldi took on the role after Matt Smith's exit in the 2013 Christmas special \"The Time of the Doctor\".\n\nDoctor Who follows the adventures of the primary character, a rogue Time Lord from the planet Gallifrey, who simply goes by the name \"The Doctor\". He fled from Gallifrey in a stolen Mark I Type 40 TARDIS \u2013 \"Time and Relative Dimension in Space\" \u2013 time machine which allows him to travel across time and space. The TARDIS has a \"chameleon circuit\""
+      },
+      {
+        "question": "What famous Indian's actions were considered civil disobedience?",
+        "gold_answer": "Gandhi",
+        "gold_document": "Civil_disobedience",
+        "retrieved_document": "Civil_disobedience",
+        "retrieved_chunk": "that can be inflicted upon me for what in law is a deliberate crime and what appears to me to be the highest duty of a citizen.\"\n\nSome civil disobedience defendants choose to make a defiant speech, or a speech explaining their actions, in allocution. In U.S. v. Burgos-Andujar, a defendant who was involved in a movement to stop military exercises by trespassing on U.S. Navy property argued to the court in allocution that \"the ones who are violating the greater law are the members of the Navy\". As"
+      },
+      {
+        "question": "What type of city has Warsaw been for as long as it's been a city?",
+        "gold_answer": "multi-cultural",
+        "gold_document": "Warsaw",
+        "retrieved_document": "Warsaw",
+        "retrieved_chunk": " August and October 1944. Warsaw gained the title of the \"Phoenix City\" because it has survived many wars, conflicts and invasions throughout its long history. Most notably, the city required painstaking rebuilding after the extensive damage it suffered in World War II, which destroyed 85% of its buildings. On 9 November 1940, the city was awarded Poland's highest military decoration for heroism, the Virtuti Militari, during the Siege of Warsaw (1939).\n\nThe city is the seat of a Roman Catholic a"
+      }
+    ],
+    "recursive": [
+      {
+        "question": "What is one function that prime numbers have that 1 does not?",
+        "gold_answer": "the sum of divisors function",
+        "gold_document": "Prime_number",
+        "retrieved_document": "Prime_number",
+        "retrieved_chunk": "are \"wrapped around\" as soon as a multiple of 9 is passed. Primes are highlighted in red. The rows (=progressions) starting with a = 3, 6, or 9 contain at most one prime number. In all other rows (a = 1, 2, 4, 5, 7, and 8) there are infinitely many prime numbers. What is more, the primes are distributed equally among those rows in the long run\u2014the density of all primes congruent a modulo 9 is 1/6.\n\nThe zeta function is closely related to prime numbers. For example, the aforementioned fact that "
+      },
+      {
+        "question": "What was produced at tesla's company? ",
+        "gold_answer": "dynamo electric machine commutators",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "At the Columbian Exposition, under a banner announcing the \"Tesla Polyphase System\", Tesla demonstrated a series of electrical effects previously performed throughout America and Europe,:76 included using high-voltage, high-frequency alternating current to light a wireless gas-discharge lamp.:79 An observer noted:\n\nIn 1893 Richard Dean Adams, who headed up the Niagara Falls Cataract Construction Company sought Tesla's opinion on what system would be best to transmit power generated at the "
+      },
+      {
+        "question": "When did Tesla move to New York City?",
+        "gold_answer": "1884",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "the Ferncliff Cemetery in Ardsley, New York, where it was later cremated. The following day, a second service was conducted by prominent priests in the Trinity Chapel (today's Serbian Orthodox Cathedral of Saint Sava) in New York City.\n\nIn 1952, following pressure from Tesla's nephew, Sava Kosanovi\u0107, Tesla's entire estate was shipped to Belgrade in 80 trunks marked N.T. In 1957, Kosanovi\u0107's secretary Charlotte Muzar transported Tesla's ashes from the United States to Belgrade. The ashes are "
+      },
+      {
+        "question": "What did mlolongo system lead to?",
+        "gold_answer": "agitation for constitutional reform",
+        "gold_document": "Kenya",
+        "retrieved_document": "Kenya",
+        "retrieved_chunk": "independent state. In this way, Kenya became an independent country under the Kenya Independence Act 1963 of the United Kingdom. Exactly 12 months later on 12 December 1964, Kenya became a republic under the name \"Republic of Kenya\".\n\nThe election held in 1988 saw the advent of the mlolongo (queuing) system, where voters were supposed to line up behind their favoured candidates instead of a secret ballot. This was seen as the climax of a very undemocratic regime and it led to widespread "
+      }
+    ],
+    "sentence-window": [
+      {
+        "question": "The theatre collection starts from the time of which famous Elizabethan playwright?",
+        "gold_answer": "Shakespeare",
+        "gold_document": "Victoria_and_Albert_Museum",
+        "retrieved_document": "Newcastle_upon_Tyne",
+        "retrieved_chunk": " Newcastle's gay scene - 'The Pink Triangle' - is centred on the Times Square area near the Centre for Life and has a range of bars, caf\u00e9s and clubs.\n\nThe city has a proud history of theatre. Stephen Kemble of the famous Kemble family successfully managed the original Theatre Royal, Newcastle for fifteen years (1791\u20131806). He brought members of his famous acting family such as Sarah Siddons and John Kemble out of London to Newcastle. Stephen Kemble guided the theatre through many celebrated seasons."
+      },
+      {
+        "question": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+        "gold_answer": "exponential-time algorithms",
+        "gold_document": "Computational_complexity_theory",
+        "retrieved_document": "Computational_complexity_theory",
+        "retrieved_chunk": " Again, there are many complexity classes between the two, such as NL and NC, and it is not known if they are distinct or equal classes.\n\nProblems that can be solved in theory (e.g., given large but finite time), but which in practice take too long for their solutions to be useful, are known as intractable problems. In complexity theory, problems that lack polynomial-time solutions are considered to be intractable for more than the smallest inputs. In fact, the Cobham\u2013Edmonds thesis states that only those problems that can be solved in polynomial time can be feasibly computed on some computational device. Problems that are known to be intractable in this sense include those that are EXPTIME-hard."
+      },
+      {
+        "question": "In what year did Tesla die? ",
+        "gold_answer": "1943",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": " Houston Street, in New York. He lit electric lamps wirelessly at both locations, demonstrating the potential of wireless power transmission. In the same year, he patented the Tesla coil.\n\nTesla served as a vice president of the American Institute of Electrical Engineers, the forerunner (along with the Institute of Radio Engineers) of the modern-day IEEE, from 1892 to 1894.\n\nStarting in 1894, Tesla began investigating what he referred to as radiant energy of \"invisible\" kinds after he had noticed damaged film in his laboratory in previous experiments (later identified as \"Roentgen rays\" or \"X-Rays\")."
+      },
+      {
+        "question": "When did the black death technically subside?",
+        "gold_answer": "By the end of 1350",
+        "gold_document": "Black_Death",
+        "retrieved_document": "Black_Death",
+        "retrieved_chunk": " The plague killed two-thirds of the inhabitants of Helsinki, and claimed a third of Stockholm's population. Europe's last major epidemic occurred in 1720 in Marseille.\n\nThe Black Death ravaged much of the Islamic world. Plague was present in at least one location in the Islamic world virtually every year between 1500 and 1850. Plague repeatedly struck the cities of North Africa."
+      }
+    ],
+    "parent-document": [
+      {
+        "question": "what did tesla attribute skin damage to?",
+        "gold_answer": "damage to the skin was not caused by the Roentgen rays, but by the ozone generated in contact with the skin",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "king screw on the camera lens.:134\n\nIn March 1896, after hearing of Wilhelm R\u00f6ntgen's discovery of X-ray and X-ray imaging (radiography), Tesla proceeded to do his own experiments in X-ray imaging, developing a high energy single terminal vacuum tube of his own design that had no target electrode and that worked from the output of the Tesla Coil (the modern term for the phenomenon produced by this device is bremsstrahlung or braking radiation). In his research, Tesla devised several experimental setups to produce X-rays. Tesla held that, with his circuits, the \"instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus.\"\n\nTesla noted the hazards of working with his circuit and single-node X-ray-producing devices. In his many notes on the early investigation of this phenomenon, he attributed the skin damage to various causes. He believed early on that damage to the skin was not caused by the Roentgen rays, but by the ozone gene"
+      },
+      {
+        "question": "What type of city has Warsaw been for as long as it's been a city?",
+        "gold_answer": "multi-cultural",
+        "gold_document": "Warsaw",
+        "retrieved_document": "Warsaw",
+        "retrieved_chunk": "mestic and international companies. In 2006, 304,016 companies were registered in the city. Warsaw's ever-growing business community has been noticed globally, regionally, and nationally. MasterCard Emerging Market Index has noted Warsaw's economic strength and commercial center. Moreover, Warsaw was ranked as the 7th greatest emerging market. Foreign investors' financial participation in the city's development was estimated in 2002 at over 650 million euro. Warsaw produces 12% of Poland's national income, which in 2008 was 305.1% of the Polish average, per capita (or 160% of the European Union average). The GDP per capita in Warsaw amounted to PLN 94 000 in 2008 (c. EUR 23 800, USD 33 000). Total nominal GDP of the city in 2010 amounted to 191.766 billion PLN, 111696 PLN per capita, which was 301,1 % of Polish average. Warsaw leads the region of East-Central Europe in foreign investment and in 2006, GDP growth met expectations with a level of 6.1%. It also has one of the fastest growi"
+      },
+      {
+        "question": "How long are students required to learn Welsh?",
+        "gold_answer": "until the age of 16",
+        "gold_document": "Teacher",
+        "retrieved_document": "Teacher",
+        "retrieved_chunk": " had enthusiastic teachers tend to rate them higher than teachers who didn't show much enthusiasm for the course materials.\n\nTeachers that exhibit enthusiasm can lead to students who are more likely to be engaged, interested, energetic, and curious about learning the subject matter. Recent research has found a correlation between teacher enthusiasm and students' intrinsic motivation to learn and vitality in the classroom. Controlled, experimental studies exploring intrinsic motivation of college students has shown that nonverbal expressions of enthusiasm, such as demonstrative gesturing, dramatic movements which are varied, and emotional facial expressions, result in college students reporting higher levels of intrinsic motivation to learn. Students who experienced a very enthusiastic teacher were more likely to read lecture material outside of the classroom.\n\nThere are various mechanisms by which teacher enthusiasm may facilitate higher levels of intrinsic motivation. Teacher enthusia"
+      },
+      {
+        "question": "In what year did Tesla die? ",
+        "gold_answer": "1943",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "hinking. He typically did not make drawings by hand but worked from memory. Beginning in his childhood, Tesla had frequent flashbacks to events that had happened previously in his life.:33\n\nDuring his second year of study at Graz, Tesla developed a passion for (and became very proficient at) billiards, chess and card-playing, sometimes spending more than 48 hours in a stretch at a gaming table.:43, 301 On one occasion at his laboratory, Tesla worked for a period of 84 hours without sleep or rest.:208 Kenneth Swezey, a journalist whom Tesla had befriended, confirmed that Tesla rarely slept. Swezey recalled one morning when Tesla called him at 3 a.m.: \"I was sleeping in my room like one dead ... Suddenly, the telephone ring awakened me ... [Tesla] spoke animatedly, with pauses, [as he] ... work[ed] out a problem, comparing one theory to another, commenting; and when he felt he had arrived at the solution, he suddenly closed the telephone.\"\n\nTesla never married; he said his chastity was v"
+      }
+    ],
+    "semantic": [
+      {
+        "question": "Who is the gallery of Indian art named after?",
+        "gold_answer": "Jawaharlal Nehru",
+        "gold_document": "Victoria_and_Albert_Museum",
+        "retrieved_document": "Victoria_and_Albert_Museum",
+        "retrieved_chunk": " Indian art, opened in 1991, contains art from about 500 BC to the 19th century."
+      },
+      {
+        "question": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+        "gold_answer": "exponential-time algorithms",
+        "gold_document": "Computational_complexity_theory",
+        "retrieved_document": "Computational_complexity_theory",
+        "retrieved_chunk": "\n\nProblems that can be solved in theory (e.g., given large but finite time), but which in practice take too long for their solutions to be useful, are known as intractable problems. In complexity theory, problems that lack polynomial-time solutions are considered to be intractable for more than the smallest inputs. In fact, the Cobham\u2013Edmonds thesis states that only those problems that can be solved in polynomial time can be feasibly computed on some computational device. Problems that are known"
+      },
+      {
+        "question": "Who may have been called upon to fund the festival associated with the Super Bowl in Santa Clara?",
+        "gold_answer": "city council",
+        "gold_document": "Super_Bowl_50",
+        "retrieved_document": "Super_Bowl_50",
+        "retrieved_chunk": " The game was played on February 7, 2016, at Levi's Stadium in the San Francisco Bay Area at Santa Clara, California. As this was the 50th Super Bowl, the league emphasized the \"golden anniversary\" with various gold-themed initiatives, as well as temporarily suspending the tradition of naming each Super Bowl game with Roman numerals (under which the game would have been known as \"Super Bowl L\"), so that the logo could prominently feature the Arabic numerals 50.\n\nThe Panthers finished the regular"
+      },
+      {
+        "question": "what did tesla attribute skin damage to?",
+        "gold_answer": "damage to the skin was not caused by the Roentgen rays, but by the ozone generated in contact with the skin",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": " In his research, Tesla devised several experimental setups to produce X-rays. Tesla held that, with his circuits, the \"instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus.\"\n\nTesla noted the hazards of working with his circuit and single-node X-ray-producing devices. In his many notes on the early investigation of this phenomenon, he attributed the skin damage to various causes. He believed early on that damage to the skin was no"
+      }
+    ],
+    "fixed-1000": [
+      {
+        "question": "what did tesla attribute skin damage to?",
+        "gold_answer": "damage to the skin was not caused by the Roentgen rays, but by the ozone generated in contact with the skin",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "king screw on the camera lens.:134\n\nIn March 1896, after hearing of Wilhelm R\u00f6ntgen's discovery of X-ray and X-ray imaging (radiography), Tesla proceeded to do his own experiments in X-ray imaging, developing a high energy single terminal vacuum tube of his own design that had no target electrode and that worked from the output of the Tesla Coil (the modern term for the phenomenon produced by this device is bremsstrahlung or braking radiation). In his research, Tesla devised several experimental setups to produce X-rays. Tesla held that, with his circuits, the \"instrument will ... enable one to generate Roentgen rays of much greater power than obtainable with ordinary apparatus.\"\n\nTesla noted the hazards of working with his circuit and single-node X-ray-producing devices. In his many notes on the early investigation of this phenomenon, he attributed the skin damage to various causes. He believed early on that damage to the skin was not caused by the Roentgen rays, but by the ozone gene"
+      },
+      {
+        "question": "What type of city has Warsaw been for as long as it's been a city?",
+        "gold_answer": "multi-cultural",
+        "gold_document": "Warsaw",
+        "retrieved_document": "Warsaw",
+        "retrieved_chunk": "this case we say about city county or powiat grodzki. Such cities are for example Lublin, Krak\u00f3w, Gda\u0144sk, Pozna\u0144. In Warsaw, its districts additionally have some of powiat's entitlements \u2013 like already mentioned car registration. For example, the district Wola has its own evidence and the district Ursyn\u00f3w \u2013 its own (and the cars from Wola have another type of registration number than these from Ursyn\u00f3w). But for instance the districts in Krak\u00f3w do not have entitlements of powiat, so the registration numbers in Krak\u00f3w are of the same type for all districts.\n\nLegislative power in Warsaw is vested in a unicameral Warsaw City Council (Rada Miasta), which comprises 60 members. Council members are elected directly every four years. Like most legislative bodies, the City Council divides itself into committees which have the oversight of various functions of the city government. Bills passed by a simple majority are sent to the mayor (the President of Warsaw), who may sign them into law. If th"
+      },
+      {
+        "question": "In what year did Tesla die? ",
+        "gold_answer": "1943",
+        "gold_document": "Nikola_Tesla",
+        "retrieved_document": "Nikola_Tesla",
+        "retrieved_chunk": "ays or holidays excepted. He was \"mortified when [his] father made light of [those] hard won honors.\" After his father's death in 1879, Tesla found a package of letters from his professors to his father, warning that unless he were removed from the school, Tesla would be killed through overwork. During his second year, Tesla came into conflict with Professor Poeschl over the Gramme dynamo, when Tesla suggested that commutators weren't necessary. At the end of his second year, Tesla lost his scholarship and became addicted to gambling. During his third year, Tesla gambled away his allowance and his tuition money, later gambling back his initial losses and returning the balance to his family. Tesla said that he \"conquered [his] passion then and there,\" but later he was known to play billiards in the US. When exam time came, Tesla was unprepared and asked for an extension to study, but was denied. He never graduated from the university and did not receive grades for the last semester.\n\nIn"
+      },
+      {
+        "question": "When did the black death technically subside?",
+        "gold_answer": "By the end of 1350",
+        "gold_document": "Black_Death",
+        "retrieved_document": "Black_Death",
+        "retrieved_chunk": "The Black Death is thought to have originated in the arid plains of Central Asia, where it then travelled along the Silk Road, reaching Crimea by 1343. From there, it was most likely carried by Oriental rat fleas living on the black rats that were regular passengers on merchant ships. Spreading throughout the Mediterranean and Europe, the Black Death is estimated to have killed 30\u201360% of Europe's total population. In total, the plague reduced the world population from an estimated 450 million down to 350\u2013375 million in the 14th century. The world population as a whole did not recover to pre-plague levels until the 17th century. The plague recurred occasionally in Europe until the 19th century.\n\nThe plague disease, caused by Yersinia pestis, is enzootic (commonly present) in populations of fleas carried by ground rodents, including marmots, in various areas including Central Asia, Kurdistan, Western Asia, Northern India and Uganda. Nestorian graves dating to 1338\u201339 near Lake Issyk Kul "
+      }
+    ]
+  },
+  "documents": [
+    {
+      "title": "French_and_Indian_War (6,000-character excerpt)",
+      "text": "The French and Indian War (1754\u20131763) was the North American theater of the worldwide Seven Years' War. The war was fought between the colonies of British America and New France, with both sides supported by military units from their parent countries of Great Britain and France, as well as Native American allies. At the start of the war, the French North American colonies had a population of roughly 60,000 European settlers, compared with 2 million in the British North American colonies. The outnumbered French particularly depended on the Indians. Long in conflict, the metropole nations declared war on each other in 1756, escalating the war from a regional affair into an intercontinental conflict.\n\nThe war was fought primarily along the frontiers between New France and the British colonies, from Virginia in the South to Nova Scotia in the North. It began with a dispute over control of the confluence of the Allegheny and Monongahela rivers, called the Forks of the Ohio, and the site of the French Fort Duquesne and present-day Pittsburgh, Pennsylvania. The dispute erupted into violence in the Battle of Jumonville Glen in May 1754, during which Virginia militiamen under the command of 22-year-old George Washington ambushed a French patrol.\n\nIn 1755, six colonial governors in North America met with General Edward Braddock, the newly arrived British Army commander, and planned a four-way attack on the French. None succeeded and the main effort by Braddock was a disaster; he was defeated in the Battle of the Monongahela on July 9, 1755 and died a few days later. British operations in 1755, 1756 and 1757 in the frontier areas of Pennsylvania and New York all failed, due to a combination of poor management, internal divisions, and effective Canadian scouts, French regular forces, and Indian warrior allies. In 1755, the British captured Fort Beaus\u00e9jour on the border separating Nova Scotia from Acadia; soon afterward they ordered the expulsion of the Acadians. Orders for the deportation were given by William Shirley, Commander-in-Chief, North America, without direction from Great Britain. The Acadians, both those captured in arms and those who had sworn the loyalty oath to His Britannic Majesty, were expelled. Native Americans were likewise driven off their land to make way for settlers from New England.\n\nAfter the disastrous 1757 British campaigns (resulting in a failed expedition against Louisbourg and the Siege of Fort William Henry, which was followed by Indian torture and massacres of British victims), the British government fell. William Pitt came to power and significantly increased British military resources in the colonies at a time when France was unwilling to risk large convoys to aid the limited forces it had in New France. France concentrated its forces against Prussia and its allies in the European theatre of the war. Between 1758 and 1760, the British military launched a campaign to capture the Colony of Canada. They succeeded in capturing territory in surrounding colonies and ultimately Quebec. Though the British were later defeated at Sainte Foy in Quebec, the French ceded Canada in accordance with the 1763 treaty.\n\nThe outcome was one of the most significant developments in a century of Anglo-French conflict. France ceded its territory east of the Mississippi to Great Britain. It ceded French Louisiana west of the Mississippi River (including New Orleans) to its ally Spain, in compensation for Spain's loss to Britain of Florida (Spain had ceded this to Britain in exchange for the return of Havana, Cuba). France's colonial presence north of the Caribbean was reduced to the islands of Saint Pierre and Miquelon, confirming Britain's position as the dominant colonial power in eastern North America.\n\nThe conflict is known by multiple names. In British America, wars were often named after the sitting British monarch, such as King William's War or Queen Anne's War. As there had already been a King George's War in the 1740s, British colonists named the second war in King George's reign after their opponents, and it became known as the French and Indian War. This traditional name continues as the standard in the United States, but it obscures the fact that Indians fought on both sides of the conflict, and that this was part of the Seven Years' War, a much larger conflict between France and Great Britain. American historians generally use the traditional name or sometimes the Seven Years' War. Other, less frequently used names for the war include the Fourth Intercolonial War and the Great War for the Empire.\n\nIn Europe, the North American theater of the Seven Years' War usually is not given a separate name. The entire international conflict is known as the Seven Years' War. \"Seven Years\" refers to events in Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763. These dates do not correspond with the fighting on mainland North America, where the fighting between the two colonial powers was largely concluded in six years, from the Battle of Jumonville Glen in 1754 to the capture of Montreal in 1760.\n\nThe French population numbered about 75,000 and was heavily concentrated along the St. Lawrence River valley, with some also in Acadia (present-day New Brunswick and parts of Nova Scotia, including \u00cele Royale (present-day Cape Breton Island)). Fewer lived in New Orleans, Biloxi, Mississippi, Mobile, Alabama and small settlements in the Illinois Country, hugging the east side of the Mississippi River and its tributaries. French fur traders and trappers traveled throughout the St. Lawrence and Mississippi watersheds, did business with local tribes, and often married Indian women. Traders married daughters of chiefs, creating high-ranking unions.\n\nBritish settlers outnumbered the French 20 to 1 with a population of about 1.5 million ranged along the eastern coast of the continent, from Nova Scotia and Newfoundland in the north, to Georgia in the south. Many",
+      "strategies": {
+        "fixed-500": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 500,
+            "end": 1000,
+            "index_start": 500,
+            "index_end": 1000
+          },
+          {
+            "start": 1000,
+            "end": 1500,
+            "index_start": 1000,
+            "index_end": 1500
+          },
+          {
+            "start": 1500,
+            "end": 2000,
+            "index_start": 1500,
+            "index_end": 2000
+          },
+          {
+            "start": 2000,
+            "end": 2500,
+            "index_start": 2000,
+            "index_end": 2500
+          },
+          {
+            "start": 2500,
+            "end": 3000,
+            "index_start": 2500,
+            "index_end": 3000
+          },
+          {
+            "start": 3000,
+            "end": 3500,
+            "index_start": 3000,
+            "index_end": 3500
+          },
+          {
+            "start": 3500,
+            "end": 4000,
+            "index_start": 3500,
+            "index_end": 4000
+          },
+          {
+            "start": 4000,
+            "end": 4500,
+            "index_start": 4000,
+            "index_end": 4500
+          },
+          {
+            "start": 4500,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 5000
+          },
+          {
+            "start": 5000,
+            "end": 5500,
+            "index_start": 5000,
+            "index_end": 5500
+          },
+          {
+            "start": 5500,
+            "end": 6000,
+            "index_start": 5500,
+            "index_end": 6000
+          }
+        ],
+        "fixed-10": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 450,
+            "end": 950,
+            "index_start": 450,
+            "index_end": 950
+          },
+          {
+            "start": 900,
+            "end": 1400,
+            "index_start": 900,
+            "index_end": 1400
+          },
+          {
+            "start": 1350,
+            "end": 1850,
+            "index_start": 1350,
+            "index_end": 1850
+          },
+          {
+            "start": 1800,
+            "end": 2300,
+            "index_start": 1800,
+            "index_end": 2300
+          },
+          {
+            "start": 2250,
+            "end": 2750,
+            "index_start": 2250,
+            "index_end": 2750
+          },
+          {
+            "start": 2700,
+            "end": 3200,
+            "index_start": 2700,
+            "index_end": 3200
+          },
+          {
+            "start": 3150,
+            "end": 3650,
+            "index_start": 3150,
+            "index_end": 3650
+          },
+          {
+            "start": 3600,
+            "end": 4100,
+            "index_start": 3600,
+            "index_end": 4100
+          },
+          {
+            "start": 4050,
+            "end": 4550,
+            "index_start": 4050,
+            "index_end": 4550
+          },
+          {
+            "start": 4500,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 5000
+          },
+          {
+            "start": 4950,
+            "end": 5450,
+            "index_start": 4950,
+            "index_end": 5450
+          },
+          {
+            "start": 5400,
+            "end": 5900,
+            "index_start": 5400,
+            "index_end": 5900
+          },
+          {
+            "start": 5850,
+            "end": 6000,
+            "index_start": 5850,
+            "index_end": 6000
+          }
+        ],
+        "fixed-25": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 375,
+            "end": 875,
+            "index_start": 375,
+            "index_end": 875
+          },
+          {
+            "start": 750,
+            "end": 1250,
+            "index_start": 750,
+            "index_end": 1250
+          },
+          {
+            "start": 1125,
+            "end": 1625,
+            "index_start": 1125,
+            "index_end": 1625
+          },
+          {
+            "start": 1500,
+            "end": 2000,
+            "index_start": 1500,
+            "index_end": 2000
+          },
+          {
+            "start": 1875,
+            "end": 2375,
+            "index_start": 1875,
+            "index_end": 2375
+          },
+          {
+            "start": 2250,
+            "end": 2750,
+            "index_start": 2250,
+            "index_end": 2750
+          },
+          {
+            "start": 2625,
+            "end": 3125,
+            "index_start": 2625,
+            "index_end": 3125
+          },
+          {
+            "start": 3000,
+            "end": 3500,
+            "index_start": 3000,
+            "index_end": 3500
+          },
+          {
+            "start": 3375,
+            "end": 3875,
+            "index_start": 3375,
+            "index_end": 3875
+          },
+          {
+            "start": 3750,
+            "end": 4250,
+            "index_start": 3750,
+            "index_end": 4250
+          },
+          {
+            "start": 4125,
+            "end": 4625,
+            "index_start": 4125,
+            "index_end": 4625
+          },
+          {
+            "start": 4500,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 5000
+          },
+          {
+            "start": 4875,
+            "end": 5375,
+            "index_start": 4875,
+            "index_end": 5375
+          },
+          {
+            "start": 5250,
+            "end": 5750,
+            "index_start": 5250,
+            "index_end": 5750
+          },
+          {
+            "start": 5625,
+            "end": 6000,
+            "index_start": 5625,
+            "index_end": 6000
+          }
+        ],
+        "recursive": [
+          {
+            "start": 0,
+            "end": 497,
+            "index_start": 0,
+            "index_end": 497
+          },
+          {
+            "start": 497,
+            "end": 997,
+            "index_start": 497,
+            "index_end": 997
+          },
+          {
+            "start": 997,
+            "end": 1494,
+            "index_start": 997,
+            "index_end": 1494
+          },
+          {
+            "start": 1494,
+            "end": 1992,
+            "index_start": 1494,
+            "index_end": 1992
+          },
+          {
+            "start": 1992,
+            "end": 2490,
+            "index_start": 1992,
+            "index_end": 2490
+          },
+          {
+            "start": 2490,
+            "end": 2989,
+            "index_start": 2490,
+            "index_end": 2989
+          },
+          {
+            "start": 2989,
+            "end": 3489,
+            "index_start": 2989,
+            "index_end": 3489
+          },
+          {
+            "start": 3489,
+            "end": 3988,
+            "index_start": 3489,
+            "index_end": 3988
+          },
+          {
+            "start": 3988,
+            "end": 4487,
+            "index_start": 3988,
+            "index_end": 4487
+          },
+          {
+            "start": 4487,
+            "end": 4986,
+            "index_start": 4487,
+            "index_end": 4986
+          },
+          {
+            "start": 4986,
+            "end": 5481,
+            "index_start": 4986,
+            "index_end": 5481
+          },
+          {
+            "start": 5481,
+            "end": 5974,
+            "index_start": 5481,
+            "index_end": 5974
+          },
+          {
+            "start": 5974,
+            "end": 6000,
+            "index_start": 5974,
+            "index_end": 6000
+          }
+        ],
+        "sentence-window": [
+          {
+            "start": 0,
+            "end": 492,
+            "index_start": 0,
+            "index_end": 103
+          },
+          {
+            "start": 0,
+            "end": 553,
+            "index_start": 103,
+            "index_end": 314
+          },
+          {
+            "start": 0,
+            "end": 706,
+            "index_start": 314,
+            "index_end": 492
+          },
+          {
+            "start": 103,
+            "end": 857,
+            "index_start": 492,
+            "index_end": 553
+          },
+          {
+            "start": 314,
+            "end": 1066,
+            "index_start": 553,
+            "index_end": 706
+          },
+          {
+            "start": 492,
+            "end": 1256,
+            "index_start": 706,
+            "index_end": 857
+          },
+          {
+            "start": 553,
+            "end": 1427,
+            "index_start": 857,
+            "index_end": 1066
+          },
+          {
+            "start": 706,
+            "end": 1582,
+            "index_start": 1066,
+            "index_end": 1256
+          },
+          {
+            "start": 857,
+            "end": 1829,
+            "index_start": 1256,
+            "index_end": 1427
+          },
+          {
+            "start": 1066,
+            "end": 1984,
+            "index_start": 1427,
+            "index_end": 1582
+          },
+          {
+            "start": 1256,
+            "end": 2115,
+            "index_start": 1582,
+            "index_end": 1829
+          },
+          {
+            "start": 1427,
+            "end": 2239,
+            "index_start": 1829,
+            "index_end": 1984
+          },
+          {
+            "start": 1582,
+            "end": 2335,
+            "index_start": 1984,
+            "index_end": 2115
+          },
+          {
+            "start": 1829,
+            "end": 2571,
+            "index_start": 2115,
+            "index_end": 2239
+          },
+          {
+            "start": 1984,
+            "end": 2775,
+            "index_start": 2239,
+            "index_end": 2335
+          },
+          {
+            "start": 2115,
+            "end": 2873,
+            "index_start": 2335,
+            "index_end": 2571
+          },
+          {
+            "start": 2239,
+            "end": 2970,
+            "index_start": 2571,
+            "index_end": 2775
+          },
+          {
+            "start": 2335,
+            "end": 3055,
+            "index_start": 2775,
+            "index_end": 2873
+          },
+          {
+            "start": 2571,
+            "end": 3179,
+            "index_start": 2873,
+            "index_end": 2970
+          },
+          {
+            "start": 2775,
+            "end": 3276,
+            "index_start": 2970,
+            "index_end": 3055
+          },
+          {
+            "start": 2873,
+            "end": 3345,
+            "index_start": 3055,
+            "index_end": 3179
+          },
+          {
+            "start": 2970,
+            "end": 3577,
+            "index_start": 3179,
+            "index_end": 3276
+          },
+          {
+            "start": 3055,
+            "end": 3771,
+            "index_start": 3276,
+            "index_end": 3345
+          },
+          {
+            "start": 3179,
+            "end": 3813,
+            "index_start": 3345,
+            "index_end": 3577
+          },
+          {
+            "start": 3276,
+            "end": 3938,
+            "index_start": 3577,
+            "index_end": 3771
+          },
+          {
+            "start": 3345,
+            "end": 4133,
+            "index_start": 3771,
+            "index_end": 3813
+          },
+          {
+            "start": 3577,
+            "end": 4384,
+            "index_start": 3813,
+            "index_end": 3938
+          },
+          {
+            "start": 3771,
+            "end": 4474,
+            "index_start": 3938,
+            "index_end": 4133
+          },
+          {
+            "start": 3813,
+            "end": 4591,
+            "index_start": 4133,
+            "index_end": 4384
+          },
+          {
+            "start": 3938,
+            "end": 4692,
+            "index_start": 4384,
+            "index_end": 4474
+          },
+          {
+            "start": 4133,
+            "end": 4760,
+            "index_start": 4474,
+            "index_end": 4591
+          },
+          {
+            "start": 4384,
+            "end": 4891,
+            "index_start": 4591,
+            "index_end": 4692
+          },
+          {
+            "start": 4474,
+            "end": 5132,
+            "index_start": 4692,
+            "index_end": 4760
+          },
+          {
+            "start": 4591,
+            "end": 5220,
+            "index_start": 4760,
+            "index_end": 4891
+          },
+          {
+            "start": 4692,
+            "end": 5377,
+            "index_start": 4891,
+            "index_end": 5132
+          },
+          {
+            "start": 4760,
+            "end": 5557,
+            "index_start": 5132,
+            "index_end": 5220
+          },
+          {
+            "start": 4891,
+            "end": 5617,
+            "index_start": 5220,
+            "index_end": 5377
+          },
+          {
+            "start": 5132,
+            "end": 5718,
+            "index_start": 5377,
+            "index_end": 5557
+          },
+          {
+            "start": 5220,
+            "end": 5785,
+            "index_start": 5557,
+            "index_end": 5617
+          },
+          {
+            "start": 5377,
+            "end": 5995,
+            "index_start": 5617,
+            "index_end": 5718
+          },
+          {
+            "start": 5557,
+            "end": 6000,
+            "index_start": 5718,
+            "index_end": 5785
+          },
+          {
+            "start": 5617,
+            "end": 6000,
+            "index_start": 5864,
+            "index_end": 5995
+          },
+          {
+            "start": 5718,
+            "end": 6000,
+            "index_start": 5995,
+            "index_end": 6000
+          }
+        ],
+        "parent-document": [
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 0,
+            "index_end": 250
+          },
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 250,
+            "index_end": 500
+          },
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 500,
+            "index_end": 750
+          },
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 750,
+            "index_end": 1000
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1000,
+            "index_end": 1250
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1250,
+            "index_end": 1500
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1500,
+            "index_end": 1750
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1750,
+            "index_end": 2000
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2000,
+            "index_end": 2250
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2250,
+            "index_end": 2500
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2500,
+            "index_end": 2750
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2750,
+            "index_end": 3000
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3000,
+            "index_end": 3250
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3250,
+            "index_end": 3500
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3500,
+            "index_end": 3750
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3750,
+            "index_end": 4000
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4000,
+            "index_end": 4250
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4250,
+            "index_end": 4500
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 4750
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4750,
+            "index_end": 5000
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5000,
+            "index_end": 5250
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5250,
+            "index_end": 5500
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5500,
+            "index_end": 5750
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5750,
+            "index_end": 6000
+          }
+        ],
+        "semantic": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 500,
+            "end": 553,
+            "index_start": 500,
+            "index_end": 553
+          },
+          {
+            "start": 553,
+            "end": 1053,
+            "index_start": 553,
+            "index_end": 1053
+          },
+          {
+            "start": 1053,
+            "end": 1066,
+            "index_start": 1053,
+            "index_end": 1066
+          },
+          {
+            "start": 1066,
+            "end": 1566,
+            "index_start": 1066,
+            "index_end": 1566
+          },
+          {
+            "start": 1566,
+            "end": 1582,
+            "index_start": 1566,
+            "index_end": 1582
+          },
+          {
+            "start": 1582,
+            "end": 2082,
+            "index_start": 1582,
+            "index_end": 2082
+          },
+          {
+            "start": 2082,
+            "end": 2115,
+            "index_start": 2082,
+            "index_end": 2115
+          },
+          {
+            "start": 2115,
+            "end": 2335,
+            "index_start": 2115,
+            "index_end": 2335
+          },
+          {
+            "start": 2335,
+            "end": 2835,
+            "index_start": 2335,
+            "index_end": 2835
+          },
+          {
+            "start": 2835,
+            "end": 2873,
+            "index_start": 2835,
+            "index_end": 2873
+          },
+          {
+            "start": 2873,
+            "end": 2970,
+            "index_start": 2873,
+            "index_end": 2970
+          },
+          {
+            "start": 2970,
+            "end": 3470,
+            "index_start": 2970,
+            "index_end": 3470
+          },
+          {
+            "start": 3470,
+            "end": 3577,
+            "index_start": 3470,
+            "index_end": 3577
+          },
+          {
+            "start": 3577,
+            "end": 3771,
+            "index_start": 3577,
+            "index_end": 3771
+          },
+          {
+            "start": 3771,
+            "end": 3813,
+            "index_start": 3771,
+            "index_end": 3813
+          },
+          {
+            "start": 3813,
+            "end": 4313,
+            "index_start": 3813,
+            "index_end": 4313
+          },
+          {
+            "start": 4313,
+            "end": 4384,
+            "index_start": 4313,
+            "index_end": 4384
+          },
+          {
+            "start": 4384,
+            "end": 4884,
+            "index_start": 4384,
+            "index_end": 4884
+          },
+          {
+            "start": 4884,
+            "end": 4891,
+            "index_start": 4884,
+            "index_end": 4891
+          },
+          {
+            "start": 4891,
+            "end": 5220,
+            "index_start": 4891,
+            "index_end": 5220
+          },
+          {
+            "start": 5220,
+            "end": 5557,
+            "index_start": 5220,
+            "index_end": 5557
+          },
+          {
+            "start": 5557,
+            "end": 5617,
+            "index_start": 5557,
+            "index_end": 5617
+          },
+          {
+            "start": 5617,
+            "end": 5785,
+            "index_start": 5617,
+            "index_end": 5785
+          },
+          {
+            "start": 5785,
+            "end": 5995,
+            "index_start": 5785,
+            "index_end": 5995
+          },
+          {
+            "start": 5995,
+            "end": 6000,
+            "index_start": 5995,
+            "index_end": 6000
+          }
+        ],
+        "fixed-1000": [
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 0,
+            "index_end": 1000
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1000,
+            "index_end": 2000
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2000,
+            "index_end": 3000
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3000,
+            "index_end": 4000
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4000,
+            "index_end": 5000
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5000,
+            "index_end": 6000
+          }
+        ]
+      }
+    },
+    {
+      "title": "Pharmacy (6,000-character excerpt)",
+      "text": "The word pharmacy is derived from its root word pharma which was a term used since the 15th\u201317th centuries. However, the original Greek roots from pharmakos imply sorcery or even poison. In addition to pharma responsibilities, the pharma offered general medical advice and a range of services that are now performed solely by other specialist practitioners, such as surgery and midwifery. The pharma (as it was referred to) often operated through a retail shop which, in addition to ingredients for medicines, sold tobacco and patent medicines. Often the place that did this was called an apothecary and several languages have this as the dominant term, though their practices are more akin to a modern pharmacy, in English the term apothecary would today be seen as outdated or only approproriate if herbal remedies were on offer to a large extent. The pharmas also used many other herbs not listed. The Greek word Pharmakeia (Greek: \u03c6\u03b1\u03c1\u03bc\u03b1\u03ba\u03b5\u03af\u03b1) derives from pharmakon (\u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03bf\u03bd), meaning \"drug\", \"medicine\" (or \"poison\").[n 1]\n\nPharmacists are healthcare professionals with specialised education and training who perform various roles to ensure optimal health outcomes for their patients through the quality use of medicines. Pharmacists may also be small-business proprietors, owning the pharmacy in which they practice. Since pharmacists know about the mode of action of a particular drug, and its metabolism and physiological effects on the human body in great detail, they play an important role in optimisation of a drug treatment for an individual.\n\nA Pharmacy Technician in the UK is considered a health care professional and often does not work under the direct supervision of a pharmacist (if employed in a hospital pharmacy) but instead is supervised and managed by other senior pharmacy technicians. In the UK the role of a PhT has grown and responsibility has been passed on to them to manage the pharmacy department and specialised areas in pharmacy practice allowing pharmacists the time to specialise in their expert field as medication consultants spending more time working with patients and in research. A pharmacy technician once qualified has to register as a professional on the General Pharmaceutical Council (GPhC) register. The GPhC is the governing body for pharmacy health care professionals and this is who regulates the practice of pharmacists and pharmacy technicians.\n\nIn Ancient Greece, Diocles of Carystus (4th century BC) was one of several men studying the medicinal properties of plants. He wrote several treatises on the topic. The Greek physician Pedanius Dioscorides is famous for writing a five volume book in his native Greek \u03a0\u03b5\u03c1\u03af \u03cd\u03bb\u03b7\u03c2 \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 in the 1st century AD. The Latin translation De Materia Medica (Concerning medical substances) was used a basis for many medieval texts, and was built upon by many middle eastern scientists during the Islamic Golden Age. The title coined the term materia medica.\n\nIn Japan, at the end of the Asuka period (538\u2013710) and the early Nara period (710\u2013794), the men who fulfilled roles similar to those of modern pharmacists were highly respected. The place of pharmacists in society was expressly defined in the Taih\u014d Code (701) and re-stated in the Y\u014dr\u014d Code (718). Ranked positions in the pre-Heian Imperial court were established; and this organizational structure remained largely intact until the Meiji Restoration (1868). In this highly stable hierarchy, the pharmacists\u2014and even pharmacist assistants\u2014were assigned status superior to all others in health-related fields such as physicians and acupuncturists. In the Imperial household, the pharmacist was even ranked above the two personal physicians of the Emperor.\n\nThe advances made in the Middle East in botany and chemistry led medicine in medieval Islam substantially to develop pharmacology. Muhammad ibn Zakar\u012bya R\u0101zi (Rhazes) (865\u2013915), for instance, acted to promote the medical uses of chemical compounds. Abu al-Qasim al-Zahrawi (Abulcasis) (936\u20131013) pioneered the preparation of medicines by sublimation and distillation. His Liber servitoris is of particular interest, as it provides the reader with recipes and explains how to prepare the `simples\u2019 from which were compounded the complex drugs then generally used. Sabur Ibn Sahl (d 869), was, however, the first physician to initiate pharmacopoedia, describing a large variety of drugs and remedies for ailments. Al-Biruni (973\u20131050) wrote one of the most valuable Islamic works on pharmacology, entitled Kitab al-Saydalah (The Book of Drugs), in which he detailed the properties of drugs and outlined the role of pharmacy and the functions and duties of the pharmacist. Avicenna, too, described no less than 700 preparations, their properties, modes of action, and their indications. He devoted in fact a whole volume to simple drugs in The Canon of Medicine. Of great impact were also the works by al-Maridini of Baghdad and Cairo, and Ibn al-Wafid (1008\u20131074), both of which were printed in Latin more than fifty times, appearing as De Medicinis universalibus et particularibus by 'Mesue' the younger, and the Medicamentis simplicibus by 'Abenguefit'. Peter of Abano (1250\u20131316) translated and added a supplement to the work of al-Maridini under the title De Veneris. Al-Muwaffaq\u2019s contributions in the field are also pioneering. Living in the 10th century, he wrote The foundations of the true properties of Remedies, amongst others describing arsenious oxide, and being acquainted with silicic acid. He made clear distinction between sodium carbonate and potassium carbonate, and drew attention to the poisonous nature of copper compounds, especially copper vitriol, and also lead compounds. He also describes the distillation of sea-water for drinking.[verification needed]\n\nIn Europe there are old pharmacies still operating in Dubrovnik, Croatia, located inside the Franciscan monastery, opened in 1317; and in the Town Hall Square of Tallinn, Estonia, dating from at least 1422. The old",
+      "strategies": {
+        "fixed-500": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 500,
+            "end": 1000,
+            "index_start": 500,
+            "index_end": 1000
+          },
+          {
+            "start": 1000,
+            "end": 1500,
+            "index_start": 1000,
+            "index_end": 1500
+          },
+          {
+            "start": 1500,
+            "end": 2000,
+            "index_start": 1500,
+            "index_end": 2000
+          },
+          {
+            "start": 2000,
+            "end": 2500,
+            "index_start": 2000,
+            "index_end": 2500
+          },
+          {
+            "start": 2500,
+            "end": 3000,
+            "index_start": 2500,
+            "index_end": 3000
+          },
+          {
+            "start": 3000,
+            "end": 3500,
+            "index_start": 3000,
+            "index_end": 3500
+          },
+          {
+            "start": 3500,
+            "end": 4000,
+            "index_start": 3500,
+            "index_end": 4000
+          },
+          {
+            "start": 4000,
+            "end": 4500,
+            "index_start": 4000,
+            "index_end": 4500
+          },
+          {
+            "start": 4500,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 5000
+          },
+          {
+            "start": 5000,
+            "end": 5500,
+            "index_start": 5000,
+            "index_end": 5500
+          },
+          {
+            "start": 5500,
+            "end": 6000,
+            "index_start": 5500,
+            "index_end": 6000
+          }
+        ],
+        "fixed-10": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 450,
+            "end": 950,
+            "index_start": 450,
+            "index_end": 950
+          },
+          {
+            "start": 900,
+            "end": 1400,
+            "index_start": 900,
+            "index_end": 1400
+          },
+          {
+            "start": 1350,
+            "end": 1850,
+            "index_start": 1350,
+            "index_end": 1850
+          },
+          {
+            "start": 1800,
+            "end": 2300,
+            "index_start": 1800,
+            "index_end": 2300
+          },
+          {
+            "start": 2250,
+            "end": 2750,
+            "index_start": 2250,
+            "index_end": 2750
+          },
+          {
+            "start": 2700,
+            "end": 3200,
+            "index_start": 2700,
+            "index_end": 3200
+          },
+          {
+            "start": 3150,
+            "end": 3650,
+            "index_start": 3150,
+            "index_end": 3650
+          },
+          {
+            "start": 3600,
+            "end": 4100,
+            "index_start": 3600,
+            "index_end": 4100
+          },
+          {
+            "start": 4050,
+            "end": 4550,
+            "index_start": 4050,
+            "index_end": 4550
+          },
+          {
+            "start": 4500,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 5000
+          },
+          {
+            "start": 4950,
+            "end": 5450,
+            "index_start": 4950,
+            "index_end": 5450
+          },
+          {
+            "start": 5400,
+            "end": 5900,
+            "index_start": 5400,
+            "index_end": 5900
+          },
+          {
+            "start": 5850,
+            "end": 6000,
+            "index_start": 5850,
+            "index_end": 6000
+          }
+        ],
+        "fixed-25": [
+          {
+            "start": 0,
+            "end": 500,
+            "index_start": 0,
+            "index_end": 500
+          },
+          {
+            "start": 375,
+            "end": 875,
+            "index_start": 375,
+            "index_end": 875
+          },
+          {
+            "start": 750,
+            "end": 1250,
+            "index_start": 750,
+            "index_end": 1250
+          },
+          {
+            "start": 1125,
+            "end": 1625,
+            "index_start": 1125,
+            "index_end": 1625
+          },
+          {
+            "start": 1500,
+            "end": 2000,
+            "index_start": 1500,
+            "index_end": 2000
+          },
+          {
+            "start": 1875,
+            "end": 2375,
+            "index_start": 1875,
+            "index_end": 2375
+          },
+          {
+            "start": 2250,
+            "end": 2750,
+            "index_start": 2250,
+            "index_end": 2750
+          },
+          {
+            "start": 2625,
+            "end": 3125,
+            "index_start": 2625,
+            "index_end": 3125
+          },
+          {
+            "start": 3000,
+            "end": 3500,
+            "index_start": 3000,
+            "index_end": 3500
+          },
+          {
+            "start": 3375,
+            "end": 3875,
+            "index_start": 3375,
+            "index_end": 3875
+          },
+          {
+            "start": 3750,
+            "end": 4250,
+            "index_start": 3750,
+            "index_end": 4250
+          },
+          {
+            "start": 4125,
+            "end": 4625,
+            "index_start": 4125,
+            "index_end": 4625
+          },
+          {
+            "start": 4500,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 5000
+          },
+          {
+            "start": 4875,
+            "end": 5375,
+            "index_start": 4875,
+            "index_end": 5375
+          },
+          {
+            "start": 5250,
+            "end": 5750,
+            "index_start": 5250,
+            "index_end": 5750
+          },
+          {
+            "start": 5625,
+            "end": 6000,
+            "index_start": 5625,
+            "index_end": 6000
+          }
+        ],
+        "recursive": [
+          {
+            "start": 0,
+            "end": 499,
+            "index_start": 0,
+            "index_end": 499
+          },
+          {
+            "start": 499,
+            "end": 997,
+            "index_start": 499,
+            "index_end": 997
+          },
+          {
+            "start": 997,
+            "end": 1496,
+            "index_start": 997,
+            "index_end": 1496
+          },
+          {
+            "start": 1496,
+            "end": 1994,
+            "index_start": 1496,
+            "index_end": 1994
+          },
+          {
+            "start": 1994,
+            "end": 2492,
+            "index_start": 1994,
+            "index_end": 2492
+          },
+          {
+            "start": 2492,
+            "end": 2991,
+            "index_start": 2492,
+            "index_end": 2991
+          },
+          {
+            "start": 2991,
+            "end": 3478,
+            "index_start": 2991,
+            "index_end": 3478
+          },
+          {
+            "start": 3478,
+            "end": 3968,
+            "index_start": 3478,
+            "index_end": 3968
+          },
+          {
+            "start": 3968,
+            "end": 4461,
+            "index_start": 3968,
+            "index_end": 4461
+          },
+          {
+            "start": 4461,
+            "end": 4956,
+            "index_start": 4461,
+            "index_end": 4956
+          },
+          {
+            "start": 4956,
+            "end": 5453,
+            "index_start": 4956,
+            "index_end": 5453
+          },
+          {
+            "start": 5453,
+            "end": 5948,
+            "index_start": 5453,
+            "index_end": 5948
+          },
+          {
+            "start": 5948,
+            "end": 6000,
+            "index_start": 5948,
+            "index_end": 6000
+          }
+        ],
+        "sentence-window": [
+          {
+            "start": 0,
+            "end": 388,
+            "index_start": 0,
+            "index_end": 107
+          },
+          {
+            "start": 0,
+            "end": 544,
+            "index_start": 107,
+            "index_end": 186
+          },
+          {
+            "start": 0,
+            "end": 849,
+            "index_start": 186,
+            "index_end": 388
+          },
+          {
+            "start": 107,
+            "end": 900,
+            "index_start": 388,
+            "index_end": 544
+          },
+          {
+            "start": 186,
+            "end": 1226,
+            "index_start": 544,
+            "index_end": 849
+          },
+          {
+            "start": 388,
+            "end": 1322,
+            "index_start": 849,
+            "index_end": 900
+          },
+          {
+            "start": 544,
+            "end": 1555,
+            "index_start": 1022,
+            "index_end": 1226
+          },
+          {
+            "start": 849,
+            "end": 1811,
+            "index_start": 1226,
+            "index_end": 1322
+          },
+          {
+            "start": 1022,
+            "end": 2122,
+            "index_start": 1322,
+            "index_end": 1555
+          },
+          {
+            "start": 1226,
+            "end": 2248,
+            "index_start": 1555,
+            "index_end": 1811
+          },
+          {
+            "start": 1322,
+            "end": 2398,
+            "index_start": 1811,
+            "index_end": 2122
+          },
+          {
+            "start": 1555,
+            "end": 2523,
+            "index_start": 2122,
+            "index_end": 2248
+          },
+          {
+            "start": 1811,
+            "end": 2564,
+            "index_start": 2248,
+            "index_end": 2398
+          },
+          {
+            "start": 2122,
+            "end": 2708,
+            "index_start": 2398,
+            "index_end": 2523
+          },
+          {
+            "start": 2248,
+            "end": 2906,
+            "index_start": 2523,
+            "index_end": 2564
+          },
+          {
+            "start": 2398,
+            "end": 2948,
+            "index_start": 2564,
+            "index_end": 2708
+          },
+          {
+            "start": 2523,
+            "end": 3127,
+            "index_start": 2708,
+            "index_end": 2906
+          },
+          {
+            "start": 2564,
+            "end": 3247,
+            "index_start": 2906,
+            "index_end": 2948
+          },
+          {
+            "start": 2708,
+            "end": 3408,
+            "index_start": 2948,
+            "index_end": 3127
+          },
+          {
+            "start": 2906,
+            "end": 3596,
+            "index_start": 3127,
+            "index_end": 3247
+          },
+          {
+            "start": 2948,
+            "end": 3704,
+            "index_start": 3247,
+            "index_end": 3408
+          },
+          {
+            "start": 3127,
+            "end": 3836,
+            "index_start": 3408,
+            "index_end": 3596
+          },
+          {
+            "start": 3247,
+            "end": 3954,
+            "index_start": 3596,
+            "index_end": 3704
+          },
+          {
+            "start": 3408,
+            "end": 4073,
+            "index_start": 3704,
+            "index_end": 3836
+          },
+          {
+            "start": 3596,
+            "end": 4268,
+            "index_start": 3836,
+            "index_end": 3954
+          },
+          {
+            "start": 3704,
+            "end": 4417,
+            "index_start": 3954,
+            "index_end": 4073
+          },
+          {
+            "start": 3836,
+            "end": 4675,
+            "index_start": 4073,
+            "index_end": 4268
+          },
+          {
+            "start": 3954,
+            "end": 4789,
+            "index_start": 4268,
+            "index_end": 4417
+          },
+          {
+            "start": 4073,
+            "end": 4865,
+            "index_start": 4417,
+            "index_end": 4675
+          },
+          {
+            "start": 4268,
+            "end": 5159,
+            "index_start": 4675,
+            "index_end": 4789
+          },
+          {
+            "start": 4417,
+            "end": 5275,
+            "index_start": 4789,
+            "index_end": 4865
+          },
+          {
+            "start": 4675,
+            "end": 5337,
+            "index_start": 4865,
+            "index_end": 5159
+          },
+          {
+            "start": 4789,
+            "end": 5509,
+            "index_start": 5159,
+            "index_end": 5275
+          },
+          {
+            "start": 4865,
+            "end": 5701,
+            "index_start": 5275,
+            "index_end": 5337
+          },
+          {
+            "start": 5159,
+            "end": 5992,
+            "index_start": 5337,
+            "index_end": 5509
+          },
+          {
+            "start": 5275,
+            "end": 6000,
+            "index_start": 5509,
+            "index_end": 5701
+          },
+          {
+            "start": 5337,
+            "end": 6000,
+            "index_start": 5763,
+            "index_end": 5992
+          },
+          {
+            "start": 5509,
+            "end": 6000,
+            "index_start": 5992,
+            "index_end": 6000
+          }
+        ],
+        "parent-document": [
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 0,
+            "index_end": 250
+          },
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 250,
+            "index_end": 500
+          },
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 500,
+            "index_end": 750
+          },
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 750,
+            "index_end": 1000
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1000,
+            "index_end": 1250
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1250,
+            "index_end": 1500
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1500,
+            "index_end": 1750
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1750,
+            "index_end": 2000
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2000,
+            "index_end": 2250
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2250,
+            "index_end": 2500
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2500,
+            "index_end": 2750
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2750,
+            "index_end": 3000
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3000,
+            "index_end": 3250
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3250,
+            "index_end": 3500
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3500,
+            "index_end": 3750
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3750,
+            "index_end": 4000
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4000,
+            "index_end": 4250
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4250,
+            "index_end": 4500
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4500,
+            "index_end": 4750
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4750,
+            "index_end": 5000
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5000,
+            "index_end": 5250
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5250,
+            "index_end": 5500
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5500,
+            "index_end": 5750
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5750,
+            "index_end": 6000
+          }
+        ],
+        "semantic": [
+          {
+            "start": 0,
+            "end": 186,
+            "index_start": 0,
+            "index_end": 186
+          },
+          {
+            "start": 186,
+            "end": 686,
+            "index_start": 186,
+            "index_end": 686
+          },
+          {
+            "start": 686,
+            "end": 849,
+            "index_start": 686,
+            "index_end": 849
+          },
+          {
+            "start": 849,
+            "end": 900,
+            "index_start": 849,
+            "index_end": 900
+          },
+          {
+            "start": 900,
+            "end": 1400,
+            "index_start": 900,
+            "index_end": 1400
+          },
+          {
+            "start": 1400,
+            "end": 1555,
+            "index_start": 1400,
+            "index_end": 1555
+          },
+          {
+            "start": 1555,
+            "end": 2055,
+            "index_start": 1555,
+            "index_end": 2055
+          },
+          {
+            "start": 2055,
+            "end": 2122,
+            "index_start": 2055,
+            "index_end": 2122
+          },
+          {
+            "start": 2122,
+            "end": 2564,
+            "index_start": 2122,
+            "index_end": 2564
+          },
+          {
+            "start": 2564,
+            "end": 3064,
+            "index_start": 2564,
+            "index_end": 3064
+          },
+          {
+            "start": 3064,
+            "end": 3127,
+            "index_start": 3064,
+            "index_end": 3127
+          },
+          {
+            "start": 3127,
+            "end": 3627,
+            "index_start": 3127,
+            "index_end": 3627
+          },
+          {
+            "start": 3627,
+            "end": 3704,
+            "index_start": 3627,
+            "index_end": 3704
+          },
+          {
+            "start": 3704,
+            "end": 3836,
+            "index_start": 3704,
+            "index_end": 3836
+          },
+          {
+            "start": 3836,
+            "end": 3954,
+            "index_start": 3836,
+            "index_end": 3954
+          },
+          {
+            "start": 3954,
+            "end": 4454,
+            "index_start": 3954,
+            "index_end": 4454
+          },
+          {
+            "start": 4454,
+            "end": 4675,
+            "index_start": 4454,
+            "index_end": 4675
+          },
+          {
+            "start": 4675,
+            "end": 4789,
+            "index_start": 4675,
+            "index_end": 4789
+          },
+          {
+            "start": 4789,
+            "end": 5289,
+            "index_start": 4789,
+            "index_end": 5289
+          },
+          {
+            "start": 5289,
+            "end": 5337,
+            "index_start": 5289,
+            "index_end": 5337
+          },
+          {
+            "start": 5337,
+            "end": 5701,
+            "index_start": 5337,
+            "index_end": 5701
+          },
+          {
+            "start": 5701,
+            "end": 6000,
+            "index_start": 5701,
+            "index_end": 6000
+          }
+        ],
+        "fixed-1000": [
+          {
+            "start": 0,
+            "end": 1000,
+            "index_start": 0,
+            "index_end": 1000
+          },
+          {
+            "start": 1000,
+            "end": 2000,
+            "index_start": 1000,
+            "index_end": 2000
+          },
+          {
+            "start": 2000,
+            "end": 3000,
+            "index_start": 2000,
+            "index_end": 3000
+          },
+          {
+            "start": 3000,
+            "end": 4000,
+            "index_start": 3000,
+            "index_end": 4000
+          },
+          {
+            "start": 4000,
+            "end": 5000,
+            "index_start": 4000,
+            "index_end": 5000
+          },
+          {
+            "start": 5000,
+            "end": 6000,
+            "index_start": 5000,
+            "index_end": 6000
+          }
+        ]
+      }
+    }
+  ]
+}
