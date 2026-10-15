@@ -279,6 +279,47 @@ body {
   100% { opacity: 0; transform: translateX(55%); }
 }
 .hero::after { content: ""; position: absolute; bottom: 0; inset-inline: 0; height: 1px; background: var(--band-line); }
+
+/* Hero films (voiceofmoe port): two muted looping films hold the left and right edges of the hero and
+   dissolve into the page, a horizontal fade toward the text and a vertical fade at top and bottom.
+   One film can span the whole band instead (.hero-bg-full), kept fainter in the middle so the
+   headline stays readable. Narrow screens: one film owns each half and they dissolve into each other. */
+.hero-bg { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+.hero-bg video {
+  position: absolute; top: 0; height: 100%; object-fit: cover;
+  opacity: 0.5; filter: saturate(0.55) brightness(0.9);
+  animation: bg-in 1.8s ease 0.4s both;
+  -webkit-mask-composite: source-in; mask-composite: intersect;
+}
+.hero-bg-left {
+  left: 0; width: 35%;
+  -webkit-mask-image: linear-gradient(to right, #000 5%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+  mask-image: linear-gradient(to right, #000 5%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+}
+.hero-bg-right {
+  right: 0; width: 33%; object-position: 50% 25%;
+  -webkit-mask-image: linear-gradient(to left, #000 5%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+  mask-image: linear-gradient(to left, #000 5%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+}
+.hero-bg .hero-bg-full {
+  left: 0; width: 100%; opacity: 0.24;
+  -webkit-mask-image: radial-gradient(48% 55% at 50% 50%, rgb(0 0 0 / 0.2) 0%, #000 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+  mask-image: radial-gradient(48% 55% at 50% 50%, rgb(0 0 0 / 0.2) 0%, #000 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+}
+@keyframes bg-in { from { opacity: 0; } }
+@media (max-width: 899px) {
+  .hero-bg :is(.hero-bg-left, .hero-bg-right) { width: 60%; opacity: 0.42; }
+  .hero-bg-left {
+    -webkit-mask-image: linear-gradient(to right, #000 35%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+    mask-image: linear-gradient(to right, #000 35%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+  }
+  .hero-bg-right {
+    object-position: 78% 25%;
+    -webkit-mask-image: linear-gradient(to left, #000 35%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+    mask-image: linear-gradient(to left, #000 35%, transparent 100%), linear-gradient(to bottom, rgb(0 0 0 / 0.55) 0, #000 10%, #000 80%, transparent 100%);
+  }
+}
+@media (prefers-reduced-motion: reduce) { .hero-bg video { animation: none; } }
 .line, .line > span { display: block; }
 .hero .lead { margin-inline: auto; }
 .hero-sub { margin-top: clamp(1.25rem, 2.8vh, 2rem); }

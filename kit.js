@@ -57,6 +57,10 @@
   // (max 5 rows), then drops the reveal classes. Anything still pending at the page end is forced in.
   const REVEAL = "[data-reveal], .section > .wrap > *, .section.wrap > *, .site-footer > *";
   const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // Hero films: muted loops that play only while on screen. Reduced motion keeps the poster frame.
+  if (!reduce) for (const v of document.querySelectorAll(".hero-bg video"))
+    new IntersectionObserver(([e]) => (e.isIntersecting ? v.play().catch(() => {}) : v.pause())).observe(v);
   const els = reduce ? [] : [...document.querySelectorAll(REVEAL)].filter((el) => !el.closest(".hero") && el.getClientRects().length);
   const rows = new Map();
   for (const el of els) {
